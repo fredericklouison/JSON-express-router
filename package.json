@@ -1,0 +1,29 @@
+{
+  "name": "json-express-router",
+  "version": "1.0.0",
+  "description": "NPM module allowing to use json objects as expressJS router. it also includes Jsonwebtoken to secure routes or to specify a particular User Role.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fredericklouison/JSON-express-router.git"
+  },
+  "keywords": [
+    "router",
+    "express",
+    "javascript",
+    "JSON"
+  ],
+  "author": "Frédérick Louison",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fredericklouison/JSON-express-router/issues"
+  },
+  "homepage": "https://github.com/fredericklouison/JSON-express-router#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
