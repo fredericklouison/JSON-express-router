@@ -3,7 +3,7 @@ NPM module allowing to use json objects as expressJS router. it also includes Js
 
 ## Installation
 
-    npm i @fredodev/JSON-express-router
+    npm i json-express-router
 
 ## Utilisation
   Use the router.js file to define your route ,and the role authorized for access.
