@@ -1,6 +1,6 @@
 {
   "name": "json-express-router",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "NPM module allowing to use json objects as expressJS router. it also includes Jsonwebtoken to secure routes or to specify a particular User Role.",
   "main": "index.js",
   "scripts": {
